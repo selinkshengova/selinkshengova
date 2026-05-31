@@ -29,4 +29,4 @@ Built with C# and Blazor.
 - Git · VS Code · Blazor
 
 ## 📫 Contact
-selin.shengova@gmail.com
+selin.k.shengova@gmail.com
